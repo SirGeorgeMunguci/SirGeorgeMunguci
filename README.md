@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is George i love to work and Write scripts and Now am working on building a beautiful home where code meets purpose and style
 
 <!--
 **SirGeorgeMunguci/SirGeorgeMunguci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
