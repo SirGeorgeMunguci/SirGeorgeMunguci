@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=iamEtornam&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee]
+  BuyMeACoffee - +256 787 404 854
 
 
 
