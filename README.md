@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ## 🏆 GitHub Stats:
 
-[![YOUR_USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SirGeorgeMunguci](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
-  [![YOUR_USERNAME's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![SirGeorgeMunguci's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
   [![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=YOUR_USERNAME&theme=dark)](https://git.io/streak-stats)
 </p>
 
