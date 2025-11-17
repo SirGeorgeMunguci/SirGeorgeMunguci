@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
   ## 💰 You can help me by Donating
   BuyMeACoffee - +256 787 404 854
+  Get intouch with me
 
 
 
